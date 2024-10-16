@@ -20,3 +20,7 @@ print(fruits)
 
 fruits.pop(2)
 print(fruits)
+
+# remove the last value from list
+fruits.pop()
+print(fruits)
