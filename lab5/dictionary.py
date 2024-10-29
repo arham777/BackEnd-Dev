@@ -5,9 +5,9 @@ file_counts = { "jpg":10 , "txt":14, "csv": 12, "py": 23 }
 
 
 
-for ext, amount in file_counts.items():
-    # print("There are {} files with the .{} extensions ".format( amount, ext))
-    print(f"There are {amount} files with the .{ext} extensions ")
+# for ext, amount in file_counts.items():
+#     # print("There are {} files with the .{} extensions ".format( amount, ext))
+#     print(f"There are {amount} files with the .{ext} extensions ")
 
 
 
@@ -17,5 +17,8 @@ for ext, amount in file_counts.items():
 #     print(f"{animal} have {breed}")
 
     # print( " {} have {} ".format(animal, breed))
+
+a=5/0
+print(a)
 
 
