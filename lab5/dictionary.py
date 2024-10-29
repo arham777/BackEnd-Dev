@@ -18,7 +18,4 @@ file_counts = { "jpg":10 , "txt":14, "csv": 12, "py": 23 }
 
     # print( " {} have {} ".format(animal, breed))
 
-a=5/0
-print(a)
-
 
